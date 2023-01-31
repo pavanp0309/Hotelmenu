@@ -5,7 +5,7 @@ const menuItems=[
         oneliner:"Biryani",
         img:"images/birayani.jpg",
         hotel:"raja rani",
-        desc:"five:spicy chicken birayani with chicken fired deeply"
+        desc:"spicy chicken birayani with chicken fired deeply"
 
     },
     {
@@ -39,7 +39,7 @@ const menuItems=[
         id:5,
         item:"food Item5",
         oneliner:"fruitsalad",
-        img:"images/fruitsald.jpg",
+        img:"",
         hotel:"raja rani",
         desc:"five:all mixed fruits with test of honey "
 
@@ -89,3 +89,4 @@ next.addEventListener('click' ,()=>{
     }
     allMenu(currentMenu);
 })
+
